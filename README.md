@@ -28,8 +28,8 @@
 <br />
 <br />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmoselli&theme=dracula)](https://github.com/matheusmoselli/) <br />
-[![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmoselli&theme=dracula&show_icons=true&count_private=true)](https://github.com/matheusmoselli/)
+[![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmoselli&theme=dracula&show_icons=true&count_private=true)](https://github.com/matheusmoselli/) <br />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmoselli&theme=dracula)](https://github.com/matheusmoselli/)
 
 [website]: http://matheusmoselli.mypressonline.com/
 [linkedin]: https://linkedin.com/in/matheusmoselli
