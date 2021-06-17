@@ -24,6 +24,11 @@
 <img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
+### Status:
+- 💼 Intern at Tecnologia Única, SP
+- 🎓 Student at ETEC Maria Cristina Medeiros, RP
+
+
 <br />
 <br />
 
