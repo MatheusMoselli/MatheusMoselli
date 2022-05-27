@@ -2,7 +2,7 @@
 
 ## I'm a full stack developer
 
-- 🏆 I’m currently searching for news challenges
+- 🏆 I’m currently searching for new challenges
 - 👨🏻‍💻 I’m falling in love with javascript
 - ⚡ My favorite hobbies are listening to music and playing videogame
 
@@ -25,8 +25,7 @@
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
 ### Status:
-- 💼 Intern at Tecnologia Única, SP
-- 🎓 Student at ETEC Maria Cristina Medeiros, RP
+- 💼 Junior Developer at Tecnologia Única, SP
 
 
 <br />
