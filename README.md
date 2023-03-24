@@ -1,4 +1,4 @@
-### Hi there, I'm [Matheus][website] 🌀
+### Hi there, I'm Matheus🌀
 
 ## I'm a full stack developer
 
@@ -7,8 +7,6 @@
 - ⚡ My favorite hobbies are listening to music and playing videogame
 
 ### Connect with me:
-
-[<img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit" />][website]
 [<img align="center" alt="personal site" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 
@@ -34,5 +32,4 @@
 [![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmoselli&theme=dracula&show_icons=true&count_private=true)](https://github.com/matheusmoselli/) <br />
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmoselli&theme=dracula)](https://github.com/matheusmoselli/)
 
-[website]: http://matheusmoselli.mypressonline.com/
 [linkedin]: https://linkedin.com/in/matheusmoselli
